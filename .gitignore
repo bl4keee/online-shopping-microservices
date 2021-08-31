@@ -1,0 +1,7 @@
+.idea
+config-server
+/target/
+*/target/**
+!.mvn/wrapper/maven-wrapper.jar
+*.iml
+*.md
